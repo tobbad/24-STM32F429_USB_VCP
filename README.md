@@ -5,7 +5,7 @@ The base for this code is from:
 http://stm32f4-discovery.com
 
 # Problem description
-Creating a CDC USB device on STM32 MCUs results in creating actually in a USB device with
+Usning provided CDC USB device code on STM32 MCUs results in a USB device with
 - `bInterfaceSubClass` = 0x02
 - `bInterfaceProtocol` = 0x01
 
