@@ -22,7 +22,7 @@ In this standard there are mandatory answers to certain AT command defined. As m
 
 https://www.rfc1149.net/blog/2013/03/05/what-is-the-difference-between-devttyusbx-and-devttyacmx/
 
-The example code for CDC in STMs example folder is a simle Hack which works - put does not fullfill the claimed standard.
+The example code for CDC in STMs example folder is a simple Hack which works - put does not fullfill the claimed standard.
 
 There are now 2 possible solutions:
 
