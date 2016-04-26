@@ -25,3 +25,4 @@ There are now 2 possible solutions:
 1. Implement a minimal AT command parser and return proper V250 compatible answers.
 2. Findout how FTDI is doing it> But they use a propriatary protocol for their USB-RS232 devices.
 
+This code may help in the implementation of a solution.
