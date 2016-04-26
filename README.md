@@ -16,7 +16,7 @@ But my Linux-PC no detects a V250 compatible modem on `/dev/ACM0` and tries to g
 
 https://www.itu.int/rec/T-REC-V.250/en
 
-In this standard ther are mandatory answers to certain AT command defined. As my simple STM32 code does not react to these answers it always takes about 10s till I can open an terminal on this serial device.
+In this standard there are mandatory answers to certain AT command defined. As my simple STM32 code does not react to these answers it always takes about 10s till I can open an terminal on this serial device.
 
 The example code for CDC in STMs example folder is a simle Hack which works - put does not fullfill the claimed standard.
 
